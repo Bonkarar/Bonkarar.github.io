@@ -1049,7 +1049,7 @@ strong {
 
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(ps4-assets/base.svg);
+    background: url(https://bonkarar.github.io/base.png);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -1057,7 +1057,7 @@ strong {
 }
 
 .ds4.disconnected {
-    background: url(ps4-assets/disconnected.svg);
+    background: url(https://bonkarar.github.io/disconnected.png);
 }
 
 .ds4.disconnected div {
